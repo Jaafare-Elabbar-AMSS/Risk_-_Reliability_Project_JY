@@ -2,6 +2,11 @@
 
 ## Reliability Analysis of Compressor Drive Systems
 
+### **Acknowledgments**
+This project was carried out as part of the **Risk and Reliability Analytics** course under the supervision of **Mr. Yiping Fang** at University Paris-Saclay.
+
+---
+
 ### **Introduction**
 This repository contains the implementation and analysis for the **Reliability of Compressor Drive Systems (CDS)** at the **Kollsnes Gas Processing Plant**. The project evaluates the reliability of key system components under two scenarios:
 1. **Non-repairable components**: Components that must be replaced entirely after failure.
@@ -37,4 +42,3 @@ The objective is to determine if the current system design meets the operational
    ```bash
    git clone https://github.com/Jaafare-Elabbar-AMSS/Risk_-_Reliability_Project_JY.git
    cd Risk_-_Reliability_Project_JY
-
